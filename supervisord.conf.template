@@ -16,7 +16,6 @@ command=/opt/google/chrome/chrome --user-data-dir=/home/chrome
                                   --window-position=0,0
                                   --window-size=${width},${height}
                                   --force-device-scale-factor=1
-                                  --no-sandbox
                                   --dbus-stub
                                   --disable-gpu
                                   --use-gl=angle
